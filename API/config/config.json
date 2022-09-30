@@ -1,0 +1,20 @@
+{
+    "App": {
+        "AppPort": "8080"
+    },
+    "MongoDB": {
+        "MongoDB_url": "mongodb+srv://root:tmnjLNsj66OW8UBu@cluster0.srdqa.mongodb.net/Voltron?retryWrites=true&w=majority"
+    },
+    "Mailler": {
+        "Mailler_Email": "kiwi.app.epitech@gmail.com",
+        "Mailler_Password": "fu9sekLayBByaCX",
+        "MAILER_OAUTH_CLIENT_ID": "767896734216-qbnla5kr56emtcl4u1kmlbng1foqqc6n.apps.googleusercontent.com",
+        "MAILER_PROJECT_ID": "kiwigram",
+        "MAILER_CLIENT_SECRET": "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",
+        "MAILER_OAUTH_REDIRECT_URL": "http://localhost:19006/",
+        "MAILER_CODE": "4/0AX4XfWgDAQLVZnEWLwkLdCz0TWt_uLk03scLL0QtxT67NUQQ_B51giycTDzaT0CPkrcAXw",
+        "MAILER_REFRESH_TOKEN": "1//03zVciIfIa81ACgYIARAAGAMSNwF-L9IrZILvIYXJAoL6cONNpiRRxVWT3p8V0AqqxFERwBxevpoBX107hOD_cvDIq7PzDbOhF",
+        "MAILER_ACCES_TOKEN": "hello",
+        "MAILER_EXPIRATION_DATE": "1650979671108"
+    }
+}
